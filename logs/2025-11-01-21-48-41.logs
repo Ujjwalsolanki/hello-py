@@ -1,0 +1,67 @@
+2025-11-01 21:48:41 [INFO] [__main__.main] ============================================================
+2025-11-01 21:48:41 [INFO] [__main__.main] Running 10 test iterations sequentially...
+2025-11-01 21:48:41 [INFO] [__main__.main] ============================================================
+2025-11-01 21:48:44 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:48:56 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:49:07 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:49:10 [INFO] [__main__.run_single_test] Run 1: PASSED (Accuracy: 0.852)
+2025-11-01 21:49:10 [INFO] [__main__.save_run_pipeline] 
+--- NEW BEST PIPELINE SAVED: pipeline_run_1_acc_0.852.py (Accuracy: 0.852) ---
+2025-11-01 21:49:12 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:49:21 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:49:31 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:49:33 [INFO] [__main__.run_single_test] Run 2 FAILURE: 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:49:33 [INFO] [__main__.run_single_test] Run 2: FAILED - 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:49:36 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:49:46 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:49:59 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:50:02 [INFO] [__main__.run_single_test] Run 3 FAILURE: 4. Low Accuracy: Code submitted (0.738), expected >= 0.85.
+2025-11-01 21:50:02 [INFO] [__main__.run_single_test] Run 3: FAILED - 4. Low Accuracy: Code submitted (0.738), expected >= 0.85.
+2025-11-01 21:50:04 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:50:13 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:50:25 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:50:26 [INFO] [__main__.run_single_test] Run 4 FAILURE: 4. Low Accuracy: Code submitted (0.738), expected >= 0.85.
+2025-11-01 21:50:26 [INFO] [__main__.run_single_test] Run 4: FAILED - 4. Low Accuracy: Code submitted (0.738), expected >= 0.85.
+2025-11-01 21:50:29 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:50:37 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:50:48 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:50:51 [INFO] [__main__.run_single_test] Run 5 FAILURE: 4. Low Accuracy: Code submitted (0.754), expected >= 0.85.
+2025-11-01 21:50:51 [INFO] [__main__.run_single_test] Run 5: FAILED - 4. Low Accuracy: Code submitted (0.754), expected >= 0.85.
+2025-11-01 21:50:53 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:51:02 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:51:12 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:51:13 [INFO] [__main__.run_single_test] Run 6 FAILURE: 4. Low Accuracy: Code submitted (0.754), expected >= 0.85.
+2025-11-01 21:51:13 [INFO] [__main__.run_single_test] Run 6: FAILED - 4. Low Accuracy: Code submitted (0.754), expected >= 0.85.
+2025-11-01 21:51:16 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:51:26 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:51:37 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:51:38 [INFO] [__main__.run_single_test] Run 7 FAILURE: 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:51:38 [INFO] [__main__.run_single_test] Run 7: FAILED - 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:51:40 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:51:49 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:51:57 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:52:05 [INFO] [__main__.run_agent_loop] model initialized for step 3
+2025-11-01 21:52:06 [INFO] [__main__.run_single_test] Run 8: PASSED (Accuracy: 0.852)
+2025-11-01 21:52:06 [INFO] [__main__.save_run_pipeline] 
+--- RUN 8 PIPELINE SAVED: pipeline_run_8_acc_0.852.py (Accuracy: 0.852) ---
+2025-11-01 21:52:09 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:52:19 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:52:31 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:52:32 [INFO] [__main__.run_single_test] Run 9 FAILURE: 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:52:32 [INFO] [__main__.run_single_test] Run 9: FAILED - 4. Low Accuracy: Code submitted (0.770), expected >= 0.85.
+2025-11-01 21:52:35 [INFO] [__main__.run_agent_loop] model initialized for step 0
+2025-11-01 21:52:43 [INFO] [__main__.run_agent_loop] model initialized for step 1
+2025-11-01 21:52:55 [INFO] [__main__.run_agent_loop] model initialized for step 2
+2025-11-01 21:53:03 [INFO] [__main__.run_agent_loop] model initialized for step 3
+2025-11-01 21:53:10 [INFO] [__main__.run_single_test] Run 10: PASSED (Accuracy: 0.852)
+2025-11-01 21:53:10 [INFO] [__main__.save_run_pipeline] 
+--- RUN 10 PIPELINE SAVED: pipeline_run_10_acc_0.852.py (Accuracy: 0.852) ---
+2025-11-01 21:53:10 [INFO] [__main__.main] 
+============================================================
+2025-11-01 21:53:10 [INFO] [__main__.main] Test Results Summary:
+2025-11-01 21:53:10 [INFO] [__main__.main]   Passed: 3/10
+2025-11-01 21:53:10 [INFO] [__main__.main]   Failed: 7/10
+2025-11-01 21:53:10 [INFO] [__main__.main]   Pass Rate: 30.0%
+2025-11-01 21:53:10 [INFO] [__main__.main] ============================================================
+2025-11-01 21:53:10 [INFO] [__main__.main] 
+The overall best pipeline achieved an accuracy of 0.852 and has been saved.

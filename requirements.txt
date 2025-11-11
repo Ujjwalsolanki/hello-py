@@ -1,0 +1,7 @@
+anthropic
+pandas
+pytest
+pytest-asyncio
+python-dotenv
+scikit-learn
+torch

@@ -1,0 +1,19 @@
+[project]
+name = "hello-py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.67.0",
+    "pandas>=2.3.3",
+    "pytest>=9.0.0",
+    "pytest-asyncio>=0.23.3",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
+    "torch>=2.9.0",
+]
+
+
+[tool.setuptools]
+py-modules = ["main", "task"]
